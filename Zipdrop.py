@@ -1,4 +1,4 @@
-#coded by Rycoder_1 (Gray hat hacker )
+#code by zerox  (Gray hat hacker )
 
 #modules required
 
@@ -36,24 +36,25 @@ cyan = '\033[96m'
 
 #banner of script
 
-print (red+"""
+print (red+""
 
-____                      _
-|  _ \ _   _  ___ ___   __| | ___ _ __
-| |_) | | | |/ __/ _ \ / _` |/ _ \ '__|
-|  _ <| |_| | (_| (_) | (_| |  __/ |
-|_| \_\\__, |\___\___/ \__,_|\___|_|
-       Made by Rycoder_1 
-       |___/
-╚═╝╚═╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+######## ######## ########   #######  ##     ## 
+     ##  ##       ##     ## ##     ##  ##   ##  
+    ##   ##       ##     ## ##     ##   ## ##   
+   ##    ######   ########  ##     ##    ###    
+  ##     ##       ##   ##   ##     ##   ## ##   
+ ##      ##       ##    ##  ##     ##  ##   ##  
+######## ######## ##     ##  #######  ##     ## 
+
+       Made : Cyber-D Zerox 
 
                                                       v 1.0
 
 """+red)
 
-print (lgreen+bold+"         <===[[ coded by Rycoder ]]===> \n"+clear)
+print (lgreen+bold+"         <===[[ coded by Zerox ]]===> \n"+clear)
 
-print (yellow+bold+"   <---(( search on youtube Rycoder_1 ))--> \n"+clear)
+print (yellow+bold+"   <---(( search on Instagram cyber_d_zerox))--> \n"+clear)
 
 ip = args.target
 
